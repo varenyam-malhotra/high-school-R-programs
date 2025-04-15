@@ -7,3 +7,6 @@ This program reads in a csv of some messy, unsorted, uncleaned data. The code cl
 
 ## Malhotra AQ Script
 Analyzes air quality data by creating plots to analyze several relationships between different variable of the data. Includes performing multiple linear regressions, saving data in matrices, and obtaining the BIC number (Bayesian information criterion). 
+
+## Malhotra Cars PCA Script
+Performs a PCA (Principal Component Analysis) on car data including filtering data, calculating PCAs based on variances and standard deviations, creating new dataframes, and using the ggplot2 library. 
