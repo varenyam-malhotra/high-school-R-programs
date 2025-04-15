@@ -15,6 +15,7 @@ Performs a PCA (Principal Component Analysis) on car data including filtering da
 Analyzes star data from the European Space Agency and analyzing characteristics such as the visual magnitude, parallax, and proper motion in right acsension and declination using tools such as matrices, data filtering, visualization, and plotting.
 
 ## Malhotra Sugiyama
-Analyzes genetic QTL data using several different functions to obtain and understand the genotypes, phenotypes, and genetic markers. Finds locations in the genome for the specific genes that code for Blood Pressure, Resting Heart Rate, Heart Weight, and more. Utilized LOD scores and recombination fractions to figure out whether two genes are linked or not due to being in similar chromosome location. For each gene I calculated a genetic probability map and performed mainscans to help come to conclusions and fully analyze the locations, relationships, and plots of each phenotype and genotype. 
+Analyzes genetic QTL (Quantitative Trait Locus) data using several different functions to obtain and understand the genotypes, phenotypes, and genetic markers. Finds locations in the genome for the specific genes that code for Blood Pressure, Resting Heart Rate, Heart Weight, and more. Utilized LOD scores and recombination fractions to figure out whether two genes are linked or not due to being in similar chromosome location. For each gene I calculated a genetic probability map, performed mainscans, and calculated Bayesian Probability Confidence Intervals to help come to conclusions and fully analyze the locations, relationships, and plots of each phenotype and genotype. 
 
 ## Malhotra Sugiyama2 Lab
+Expanded on the MalhotraSugiyama file and analyzed a different Sugiyama dataset of QTL data.
